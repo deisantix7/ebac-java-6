@@ -1,0 +1,16 @@
+1. Acordar;
+2. Se preguiça:
+  1. Dormir;
+  2. Acordar duas horas depois;
+3. Abrir o olho;
+4. Sentar;
+5. Espreguiçar;
+6. Levantar;
+7. Se porta do quarto fechada:
+  1. Abrir porta do quarto;
+8. Ir ao banheiro;
+9. Escovar os dentes;
+10. Lavar o rosto;
+11. Ir para o quarto;
+12. Sentar na cadeira da escrivaninha;
+13. Estudar;
